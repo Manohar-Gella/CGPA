@@ -14,10 +14,10 @@ export default function Home() {
         </CardHeader>
         <CardContent>
           <p className="text-center text-muted-foreground">
-            For contributions fork the project at github.com/Manohar-Gella/cgpa
+            For contributions fork the project at "github.com/Manohar-Gella/cgpa"
           </p>
           <p className="text-center text-muted-foreground">
-            Calculate your SGPA and CGPA for each semester
+            *Calculate your SGPA and CGPA for each semester*
           </p>
         </CardContent>
       </Card>
