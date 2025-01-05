@@ -20,7 +20,7 @@ export default function Home() {
             *Calculate your SGPA and CGPA for each semester*
           </p>
           <p className="text-center text-muted-foreground">
-            Grade calculator for year 2 and 3 will be added soon!
+            Grade calculator for year 3 and 4 will be added soon!
           </p>
         </CardContent>
       </Card>
