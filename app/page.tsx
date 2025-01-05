@@ -14,7 +14,7 @@ export default function Home() {
         </CardHeader>
         <CardContent>
           <p className="text-center text-muted-foreground">
-            Exclusive for Andhra University College of Engineering - Department of Computer Science
+            For contributions fork the project at github.com/Manohar-Gella/cgpa
           </p>
           <p className="text-center text-muted-foreground">
             Calculate your SGPA and CGPA for each semester
