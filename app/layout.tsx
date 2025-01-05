@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Academic Grade Calculator',
-  description: 'Calculate your semester-wise SGPA and CGPA - Andhra University College of Engineering',
+  description: 'Calculate your semester-wise SGPA and CGPA',
 };
 
 export default function RootLayout({
